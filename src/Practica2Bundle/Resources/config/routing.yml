@@ -1,0 +1,3 @@
+practica2_homepage:
+    path:     /
+    defaults: { _controller: Practica2Bundle:Default:index }
